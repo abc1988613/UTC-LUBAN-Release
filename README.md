@@ -1,8 +1,15 @@
 # UTC-LUBAN-Release
 欢迎参与Unity工业组数字孪生产线工具（LUBAN）的测试。
 ## 下载地址
-您可以从侧边栏的Release面板，下载到最新的LUBAN工具包。
+您可以点击侧边栏的Release面板中的tags。
+
+![Select Tags](./Image/Select Tags.png)
+
+在Release面板中，选择最新的Release下载包，下载到本地使用。
+
+![Select Release Package](./Image/Select Release Package.png)
+
 ## 使用文档
 您可以从该链接获取到最新的文档说明：https://utc.gitbook.io/luban/
 ## 反馈
-如果在使用过程中，您对工具有什么意见或者需求，请在此Repo中提出需求，或者是连续Unity相关支持同时。感谢您的理解
+在使用过程中，如果您对工具有什么意见或者需求，请在此Repo中提出需求，或者是联系Unity相关支持同事。感谢您的理解。
