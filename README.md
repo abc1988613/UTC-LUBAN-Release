@@ -10,6 +10,6 @@
 <img width = "800" src="./Image/Select Release Package.png?raw=true">
 
 ## 使用文档
-您可以从该链接获取到最新的文档说明：https://utc.gitbook.io/luban/。
+您可以从该链接获取到最新的文档说明：https://utc.gitbook.io/luban/ 。
 ## 反馈
 在使用过程中，如果您对工具有什么意见或者需求，请在此Repo中提出需求，或者是联系Unity相关支持同事。感谢您的理解。
